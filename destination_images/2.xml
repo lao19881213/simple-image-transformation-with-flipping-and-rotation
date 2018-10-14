@@ -1,0 +1,26 @@
+<annotation>
+	<folder>destination_images</folder>
+	<filename>2.jpg</filename>
+	<path>/Users/hzctony/Documents/Programming/python_tutorial/img_proc_git/destination_images/2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dog</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>255</ymin>
+			<xmax>498</xmax>
+			<ymax>812</ymax>
+		</bndbox>
+	</object>
+</annotation>
