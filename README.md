@@ -29,4 +29,4 @@ python3 image_trasfer.py
 then you can check your ./destination_images generated the files including rotated and flipped images.
 
 
-
+Enjoy your test :)
