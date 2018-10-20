@@ -12,5 +12,6 @@ If you only have a little images, you can use this repository to turn your every
 
 ### prerequisite
 
-[TensorFlow](https://www.tensorflow.org/install/pip)
-python 3
+TensorFlow[see installation here](https://www.tensorflow.org/install/pip)
+
+Python 3
